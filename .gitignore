@@ -1,0 +1,4 @@
+.idea/
+.venv/
+school/__pycache__/
+website/__pycache__/
